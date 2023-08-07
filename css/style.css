@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+    color: green;
+    padding: 20px;
+}
